@@ -1,1 +1,1 @@
-# ImageDimensionReduction
+Programmed in Algebraic Methods in Data Science an image dimension reduction algorithm to efficiently label test data with KNN algorithm in Python, using CIFAR-10 dataset and relies on PCA, SVD decomposition, and KNN theories
